@@ -1,2 +1,2 @@
 # Ola-mundo
- primeiro repositorio do curso Git e GitHub
+ primeiro repositorio do curso do Guanabara Git e GitHub
